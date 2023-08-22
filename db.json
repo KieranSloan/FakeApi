@@ -29,6 +29,8 @@
     "name": "typicode"
   },
   "vidsys": {
-    "name": "typicode"
+    "Event": {
+      "Success": "true"
+    }
   }
 }
