@@ -29,7 +29,7 @@
     "name": "typicode"
   },
   "vidsys/event": {
-    "event": {
+    "test": {
       "success": true
     }
   }
