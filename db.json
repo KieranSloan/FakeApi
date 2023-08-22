@@ -28,9 +28,9 @@
   "profile": {
     "name": "typicode"
   },
-  "vidsys": [
-     "event": {
-          "success": true
-        }
-    ],
+  "vidsys": {
+		"Event": {
+			"success": true,
+		  },
+	}
 }
